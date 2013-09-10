@@ -2,9 +2,9 @@
 1.1 설치전 확인사항
 1) Library
 [root@cent62 ~]# yum install gcc*
-[root@cent62 ~]# yum install zlib-devel
+[root@cent62 ~]# yum install zlib*
 [root@cent62 ~]# yum install openssl*
-[root@cent62 ~]# yum install glib-devel
+
 
 2) Hostname - IP 정보 등록
 [root@cent62 ~]# vi /etc/hosts
